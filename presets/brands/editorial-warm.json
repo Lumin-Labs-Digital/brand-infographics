@@ -1,0 +1,28 @@
+{
+  "brand_name": "Editorial Wellness Co.",
+  "footer_label": "YOURSITE.COM",
+  "logo_path": "",
+  "tone": "calm, evidence-based editorial authority",
+  "niche": "wellness & education",
+  "fonts": {
+    "heading": "'Playfair Display', Georgia, serif",
+    "body": "'Inter', system-ui, -apple-system, sans-serif",
+    "label": "'Space Grotesk', system-ui, sans-serif",
+    "google_fonts": "Playfair+Display:wght@700;900&family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@700",
+    "local_dir": ""
+  },
+  "colors": {
+    "ground": "#F6F3EC",
+    "card": "#FCFBF7",
+    "card_subtle": "#F4F1EA",
+    "ink_primary": "#182B26",
+    "ink_secondary": "#3D5049",
+    "footer_bg": "#FAF8F4",
+    "footer_ink": "#243447",
+    "banner_bg": "#182B26",
+    "banner_kicker": "#8BD1C2",
+    "banner_ink": "#E8EEF5",
+    "accent_primary": "#1B5E52",
+    "accents": ["#1B5E52", "#1E3A5F", "#7B4F12", "#8E2B2A", "#5B3256"]
+  }
+}

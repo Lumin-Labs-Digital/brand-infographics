@@ -1,0 +1,28 @@
+{
+  "brand_name": "Creator Studio",
+  "footer_label": "@YOURHANDLE",
+  "logo_path": "",
+  "tone": "punchy, high-contrast, saveable creator playbooks",
+  "niche": "personal finance, marketing & creator growth",
+  "fonts": {
+    "heading": "'Playfair Display', Georgia, serif",
+    "body": "'Inter', system-ui, -apple-system, sans-serif",
+    "label": "'Space Grotesk', system-ui, sans-serif",
+    "google_fonts": "Playfair+Display:wght@700;900&family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@700",
+    "local_dir": ""
+  },
+  "colors": {
+    "ground": "#F7F4ED",
+    "card": "#FFFFFF",
+    "card_subtle": "#F8F6F1",
+    "ink_primary": "#161B26",
+    "ink_secondary": "#3B4254",
+    "footer_bg": "#FAF8F4",
+    "footer_ink": "#161B26",
+    "banner_bg": "#1A1423",
+    "banner_kicker": "#F5C88B",
+    "banner_ink": "#F1EDF7",
+    "accent_primary": "#9C3F2D",
+    "accents": ["#9C3F2D", "#1E3A5F", "#1B5E52", "#5B3256", "#7B4F12"]
+  }
+}

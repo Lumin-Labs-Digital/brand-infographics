@@ -1,0 +1,28 @@
+{
+  "brand_name": "Northstar SaaS",
+  "footer_label": "NORTHSTAR.APP",
+  "logo_path": "",
+  "tone": "crisp, analytical, product-led B2B",
+  "niche": "software & productivity",
+  "fonts": {
+    "heading": "'Space Grotesk', 'Inter', system-ui, sans-serif",
+    "body": "'Inter', system-ui, -apple-system, sans-serif",
+    "label": "'Space Grotesk', system-ui, sans-serif",
+    "google_fonts": "Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@700",
+    "local_dir": ""
+  },
+  "colors": {
+    "ground": "#F3F5F8",
+    "card": "#FFFFFF",
+    "card_subtle": "#F8FAFC",
+    "ink_primary": "#0F172A",
+    "ink_secondary": "#334155",
+    "footer_bg": "#FFFFFF",
+    "footer_ink": "#1E293B",
+    "banner_bg": "#0F172A",
+    "banner_kicker": "#7DD3FC",
+    "banner_ink": "#E2E8F0",
+    "accent_primary": "#1D4ED8",
+    "accents": ["#1D4ED8", "#0F766E", "#4338CA", "#9A3412", "#B91C1C"]
+  }
+}

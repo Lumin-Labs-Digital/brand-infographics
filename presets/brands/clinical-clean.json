@@ -1,0 +1,28 @@
+{
+  "brand_name": "Civic Research Brief",
+  "footer_label": "RESEARCHBRIEF.ORG",
+  "logo_path": "",
+  "tone": "trustworthy, clean clinical & scientific reporting",
+  "niche": "healthcare, labs & policy",
+  "fonts": {
+    "heading": "'Playfair Display', Georgia, serif",
+    "body": "'Inter', system-ui, -apple-system, sans-serif",
+    "label": "'Space Grotesk', system-ui, sans-serif",
+    "google_fonts": "Playfair+Display:wght@700;900&family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@700",
+    "local_dir": ""
+  },
+  "colors": {
+    "ground": "#F2F5F7",
+    "card": "#FFFFFF",
+    "card_subtle": "#F6F9FB",
+    "ink_primary": "#152536",
+    "ink_secondary": "#3D4E60",
+    "footer_bg": "#FAFBFD",
+    "footer_ink": "#1E3A5F",
+    "banner_bg": "#152536",
+    "banner_kicker": "#99DEC9",
+    "banner_ink": "#E8EEF5",
+    "accent_primary": "#1E3A5F",
+    "accents": ["#1E3A5F", "#1B5E52", "#8E2B2A", "#7B4F12", "#5B3256"]
+  }
+}

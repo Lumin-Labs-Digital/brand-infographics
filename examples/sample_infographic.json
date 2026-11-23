@@ -1,0 +1,52 @@
+{
+  "slug": "protein_timing_blueprint",
+  "archetype": "hero-compare",
+  "title": "Daily Protein Blueprint:<br>Survival RDA vs. Optimal Health",
+  "subtitle": "Why 0.8 g/kg only prevents deficiency — while 1.2–1.6 g/kg protects lean strength",
+  "media_path": "",
+  "media_kicker": "Universal Sports Nutrition",
+  "media_caption": "Anchor 25–40g Quality Protein at Every Meal Across Any Eating Pattern",
+  "left_panel": {
+    "kicker": "Common Gaps",
+    "title": "The Under-Protein Trap",
+    "tone": 3,
+    "items": [
+      "✗ <strong>0.8 g/kg Floor:</strong> Minimum survival guideline — never built for active aging",
+      "✗ <strong>Tiny Breakfasts:</strong> Pastries or toast start the day short 25g protein",
+      "✗ <strong>8 PM Catch-Up:</strong> One giant dinner steak cannot match balanced meal pulses"
+    ]
+  },
+  "right_panel": {
+    "kicker": "Evidence Target",
+    "title": "Optimal Daily Targets",
+    "tone": 0,
+    "items": [
+      "✓ <strong>1.2–1.6 g/kg Daily:</strong> Ideal range for satiety, lifting & muscle preservation",
+      "✓ <strong>30g Morning Anchor:</strong> Steadily cuts cravings & reactive glucose dips",
+      "✓ <strong>Animal + Plant Mix:</strong> Eggs, Greek yogurt, wild fish, tofu & lentils combine easily"
+    ]
+  },
+  "section_heading": "3 Effortless Ways to Hit Your Goal",
+  "cards": [
+    {
+      "title": "Use Target Weight",
+      "desc": "If carrying extra body fat, multiply g/kg by your healthy goal body weight.",
+      "tone": 1
+    },
+    {
+      "title": "Leucine Trigger",
+      "desc": "Aim for 25–40g per sitting so muscle protein synthesis flips ON cleanly.",
+      "tone": 0
+    },
+    {
+      "title": "Pair Fiber & Water",
+      "desc": "Keep leafy greens, berries & hydration steady alongside higher protein.",
+      "tone": 2
+    }
+  ],
+  "bottom_title": "Healthy Kidney Check · Daily Consistency Wins",
+  "bottom_points": [
+    "<strong>Safe for Healthy Kidneys:</strong> Controlled human trials show 1.2–1.6 g/kg protein does not harm healthy renal function (diagnosed CKD uses MD limits).",
+    "<strong>Consistent 3-Meal Rhythm:</strong> Spreading daily grams cleanly beats swinging between low weekdays and heavy weekend meals."
+  ]
+}
